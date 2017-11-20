@@ -10,7 +10,7 @@ public class main {
     static Stack<Disk> aPole = new Stack();
     static Stack<Disk> bPole = new Stack();
     static Stack<Disk> cPole = new Stack();
-    static int amountOfDisks = 6;
+    static int amountOfDisks = 3;
 
     public static void main(String[] args) {
 
@@ -18,11 +18,11 @@ public class main {
             aPole.add(new Disk(amountOfDisks - i));
         }
 
-        System.out.println("----START----");
+        System.out.println("////START////  ");
         printPoles(amountOfDisks);
         move(aPole.size(), aPole, cPole, bPole);
 
-        System.out.println("----FINISH----");
+        System.out.println("////FINISH////  ");
         printPoles(amountOfDisks);
 
     }
@@ -34,12 +34,12 @@ public class main {
         move(height - 1, from, aux, to);
         to.add(from.pop());
         System.out.println("");
-        System.out.println("----MOVE----");
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(main.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        System.out.println("////MOVE////  ");
+//        try {
+//            Thread.sleep(500);
+//        } catch (InterruptedException ex) {
+//            Logger.getLogger(main.class.getName()).log(Level.SEVERE, null, ex);
+//        }
         printPoles(amountOfDisks);
         System.out.println("");
         move(height - 1, aux, to, from);
@@ -101,7 +101,7 @@ public class main {
                 tmpC = tmpC + "-";
             }
 
-            System.out.println(tmpA + " " + tmpB + " " + tmpC);
+            System.out.println(tmpA + " " + tmpB + " " + tmpC + "  ");
         }
     }
 
