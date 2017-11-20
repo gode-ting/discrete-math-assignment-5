@@ -3,117 +3,117 @@ Repository for assignment 5 in discrete math course on Cphbusiness, PBA in softw
 
 ## Output
 ----START----  
-***X#X*** ****#**** ****#****  
-**XX#XX** ****#**** ****#****  
-*XXX#XXX* ****#**** ****#****  
-XXXX#XXXX ****#**** ****#****  
+OOOX#XOOO OOOO#OOOO OOOO#OOOO  
+OOXX#XXOO OOOO#OOOO OOOO#OOOO  
+OXXX#XXXO OOOO#OOOO OOOO#OOOO  
+XXXX#XXXX OOOO#OOOO OOOO#OOOO  
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-**XX#XX** ****#**** ****#****  
-*XXX#XXX* ****#**** ****#****  
-XXXX#XXXX ***X#X*** ****#****  
-
-
-----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-*XXX#XXX* ****#**** ****#****  
-XXXX#XXXX ***X#X*** **XX#XX**  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOXX#XXOO OOOO#OOOO OOOO#OOOO  
+OXXX#XXXO OOOO#OOOO OOOO#OOOO  
+XXXX#XXXX OOOX#XOOO OOOO#OOOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-*XXX#XXX* ****#**** ***X#X***  
-XXXX#XXXX ****#**** **XX#XX**  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OXXX#XXXO OOOO#OOOO OOOO#OOOO  
+XXXX#XXXX OOOX#XOOO OOXX#XXOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-****#**** ****#**** ***X#X***  
-XXXX#XXXX *XXX#XXX* **XX#XX**  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OXXX#XXXO OOOO#OOOO OOOX#XOOO  
+XXXX#XXXX OOOO#OOOO OOXX#XXOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-***X#X*** ****#**** ****#****  
-XXXX#XXXX *XXX#XXX* **XX#XX**  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOX#XOOO  
+XXXX#XXXX OXXX#XXXO OOXX#XXOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-***X#X*** **XX#XX** ****#****  
-XXXX#XXXX *XXX#XXX* ****#****  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOX#XOOO OOOO#OOOO OOOO#OOOO  
+XXXX#XXXX OXXX#XXXO OOXX#XXOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ***X#X*** ****#****  
-****#**** **XX#XX** ****#****  
-XXXX#XXXX *XXX#XXX* ****#****  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOX#XOOO OOXX#XXOO OOOO#OOOO  
+XXXX#XXXX OXXX#XXXO OOOO#OOOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ***X#X*** ****#****  
-****#**** **XX#XX** ****#****  
-****#**** *XXX#XXX* XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOX#XOOO OOOO#OOOO  
+OOOO#OOOO OOXX#XXOO OOOO#OOOO  
+XXXX#XXXX OXXX#XXXO OOOO#OOOO  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-****#**** **XX#XX** ***X#X***  
-****#**** *XXX#XXX* XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOX#XOOO OOOO#OOOO  
+OOOO#OOOO OOXX#XXOO OOOO#OOOO  
+OOOO#OOOO OXXX#XXXO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-****#**** ****#**** ***X#X***  
-**XX#XX** *XXX#XXX* XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOXX#XXOO OOOX#XOOO  
+OOOO#OOOO OXXX#XXXO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-***X#X*** ****#**** ****#****  
-**XX#XX** *XXX#XXX* XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOX#XOOO  
+OOXX#XXOO OXXX#XXXO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-***X#X*** ****#**** *XXX#XXX*  
-**XX#XX** ****#**** XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOX#XOOO OOOO#OOOO OOOO#OOOO  
+OOXX#XXOO OXXX#XXXO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** ****#****  
-****#**** ****#**** *XXX#XXX*  
-**XX#XX** ***X#X*** XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOX#XOOO OOOO#OOOO OXXX#XXXO  
+OOXX#XXOO OOOO#OOOO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ****#****  
-****#**** ****#**** **XX#XX**  
-****#**** ****#**** *XXX#XXX*  
-****#**** ***X#X*** XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OXXX#XXXO  
+OOXX#XXOO OOOX#XOOO XXXX#XXXX  
 
 
 ----MOVE----  
-****#**** ****#**** ***X#X***  
-****#**** ****#**** **XX#XX**  
-****#**** ****#**** *XXX#XXX*  
-****#**** ****#**** XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOO#OOOO  
+OOOO#OOOO OOOO#OOOO OOXX#XXOO  
+OOOO#OOOO OOOO#OOOO OXXX#XXXO  
+OOOO#OOOO OOOX#XOOO XXXX#XXXX  
+
+
+----MOVE----  
+OOOO#OOOO OOOO#OOOO OOOX#XOOO  
+OOOO#OOOO OOOO#OOOO OOXX#XXOO  
+OOOO#OOOO OOOO#OOOO OXXX#XXXO  
+OOOO#OOOO OOOO#OOOO XXXX#XXXX  
 
 ----FINISH----  
-****#**** ****#**** ***X#X***  
-****#**** ****#**** **XX#XX**  
-****#**** ****#**** *XXX#XXX*  
-****#**** ****#**** XXXX#XXXX  
+OOOO#OOOO OOOO#OOOO OOOX#XOOO  
+OOOO#OOOO OOOO#OOOO OOXX#XXOO  
+OOOO#OOOO OOOO#OOOO OXXX#XXXO  
+OOOO#OOOO OOOO#OOOO XXXX#XXXX  
